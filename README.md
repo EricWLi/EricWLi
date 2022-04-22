@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 ### Hello! 👋 I'm Eric. Welcome to my GitHub profile!
 - 👀 I am interested in Software Development and DevOps.
 - 🔭 I’m currently working on Collabor8n, a collaborative whiteboard platform.
-- 📫 How to reach me: me@ericwli.com
+- 📫 How to reach me: eric@ericwli.com
 
